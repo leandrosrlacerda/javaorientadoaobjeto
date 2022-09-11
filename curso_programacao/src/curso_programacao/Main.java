@@ -7,7 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
-		
+		// Alteracao na linha. Teste commit
 		System.out.print("Entre com a quantidade de minutos consumidos no plano:");
 		int minutos = scanner.nextInt();
 		
